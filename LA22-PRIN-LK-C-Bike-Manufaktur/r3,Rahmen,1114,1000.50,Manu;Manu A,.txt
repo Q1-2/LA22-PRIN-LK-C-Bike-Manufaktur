@@ -1,0 +1,11 @@
+r3,Rahmen,1114,1000.50,Manu;Manu A,56 cm
+r7,Gabel,299.50,Manu,1-1/8"-1-1/4"
+e13,Sattel,187.50,MFactory;BergWerk,Breite L
+s12,Kurbel,641,222.69,Champions;Form 12,2-fach
+e19,Lenker,234,45.00,TeamPro;Evaluation,42 cm
+s37,Schaltwerk,275,180.00,Champions;Form 12,2x12-fach
+s40,Kette,279,27.70,Champions;Form 12,gekürzt
+s10,Bremsgriff,183,29.70,Champions;Form 12,+Schaltzug
+s13,Bremse vorne,153,85.00,Champions;Form 12,Felgen-Br
+e65,Hinterrad,1226,249.20,Radelfox;TubelessC,2.5 cm
+Manu ATTAIN GTC Carbon;RacingBike

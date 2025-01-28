@@ -1,0 +1,55 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="SchaltElement">
+    <Position X="0.5" Y="7.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAgAAAAAAAAAAAAAAAAABAAAAABAAAAAAAAIAAAAAAA=</HashCode>
+      <FileName>SchaltElement.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="RahmenTeil">
+    <Position X="3" Y="7.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAhAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAQAAAAAAAA=</HashCode>
+      <FileName>RahmenTeil.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Kategorie">
+    <Position X="0.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AIAAAAAAAAAAACAAgAAAAAAAAAAQAAAAAAAAEAAAABA=</HashCode>
+      <FileName>Kategorie.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Komponente">
+    <Position X="2.5" Y="1.75" Width="2" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAQAAAAACACAQICgBQAEAQAAAEAAAAGAEAEABBA=</HashCode>
+      <FileName>Komponente.h</FileName>
+    </TypeIdentifier>
+    <ShowAsAssociation>
+      <Field Name="vorherige" />
+      <Field Name="naechste" />
+    </ShowAsAssociation>
+  </Class>
+  <Class Name="EinzelTeil">
+    <Position X="5.5" Y="7.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AABAAAAAAAAAAAAAAAAARAAAAAAEAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>EinzelTeil.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Bike">
+    <Position X="6.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAIQAAAAABgAAIAAABgAAMAABAQAAAAIAAAAQAIACA=</HashCode>
+      <FileName>Bike.h</FileName>
+    </TypeIdentifier>
+    <ShowAsAssociation>
+      <Field Name="kategorie" />
+      <Field Name="letzteKomp" />
+      <Field Name="ersteKomp" />
+    </ShowAsAssociation>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
